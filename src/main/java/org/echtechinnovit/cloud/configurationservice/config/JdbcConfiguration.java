@@ -13,7 +13,7 @@ import org.springframework.jdbc.core.namedparam.NamedParameterJdbcOperations;
 
 /**
  *
- * @author Administrator
+ * @author mekakkar
  */
 @Configuration
 public class JdbcConfiguration extends AbstractJdbcConfiguration {
